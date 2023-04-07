@@ -35,6 +35,7 @@ for i in range(0,5):
     둘(탭, 스페이스바로 이부분 회색 될 때까지 들여쓰기)
 
 셋
+![사진1](https://user-images.githubusercontent.com/111418783/230516885-1302025b-8dab-4d85-88af-fffef2be4410.JPG)
 
 
 
